@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection 🔍
+# Credit Card Fraud Detection
 
 A Machine Learning project that detects fraudulent transactions using Logistic Regression, scaling, and threshold tuning.  
 The model is designed to **maximize recall**, ensuring that fraudulent transactions are never missed.
